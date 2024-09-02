@@ -1,0 +1,13 @@
+- version control - The management of changes to documents,computer programs, large web sites, and other collections of information.
+
+- clone
+- add
+- commit
+- push
+- pull
+
+COMMANDS
+*********************
+- git status
+- git add
+- git commit -m ""
