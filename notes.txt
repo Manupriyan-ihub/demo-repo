@@ -18,3 +18,4 @@ COMMANDS
 
 - git branch -->tells branch name
 - git checkout -b "branchName"-->tells branch name
+- git commit -am --> works for modified files only
