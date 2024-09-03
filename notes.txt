@@ -19,3 +19,8 @@ COMMANDS
 - git branch -->tells branch name
 - git checkout -b "branchName"-->tells branch name
 - git commit -am --> works for modified files only
+- git merge "branchName"
+- git reset HEAD~1
+- git reset "commithash"
+- git reset --hard "commithash"
+- fork for open source
