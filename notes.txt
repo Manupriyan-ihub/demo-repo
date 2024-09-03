@@ -1,5 +1,4 @@
 - version control - The management of changes to documents,computer programs, large web sites, and other collections of information.
-
 - clone
 - add
 - commit
@@ -9,5 +8,13 @@
 COMMANDS
 *********************
 - git status
-- git add
+- git add .
 - git commit -m ""
+- git push
+- git init 
+- git remote add origin "remoteId"
+- git remote -v
+- git push -u origin master
+
+- git branch -->tells branch name
+- git checkout -b "branchName"-->tells branch name
